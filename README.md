@@ -18,5 +18,6 @@ Apaixonado por matemática, tecnologia, educação e por contribuir para melhori
 <br><br>
 
 ### Contato
-#### Me adicione no LinkedIn! 
+<br><br>
+Me adicione no LinkedIn! 
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alturimar-moreira-8b858024)
