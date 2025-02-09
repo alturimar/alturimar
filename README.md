@@ -3,7 +3,7 @@
 ![Alturimar GitHub stats](https://github-readme-stats.vercel.app/api?username=Alturimar&show_icons=true&bg_color=00000000)
 
 
-### Tecnologias que eu uso no dia a dia
+### Tecnologias que eu uso 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img align="center" alt="Windows Server" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
