@@ -15,7 +15,7 @@
 
 Apaixonado por matemática, tecnologia, educação e por contribuir para melhoria da vida das pessoas através do conhecimento.  
 
-<br><br><br>
+<br><br>
 
 ### Contato
 #### Me adicione no LinkedIn! 
