@@ -13,7 +13,7 @@
     <img align="center" alt="Postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div> <br/>
 
-Apaixonado por matemática, tecnologia, educação e por contribuir para melhoria da vida das pessoas através do conhecimento.  
+Apaixonado por Matemática, tecnologia, educação e por contribuir para melhoria da vida das pessoas através do conhecimento.  
 
 <br><br>
 
