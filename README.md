@@ -1,4 +1,4 @@
-### Olá Eu sou o Alturimar Moreira 🖐️
+### Olá! Eu sou o Alturimar Moreira 🖐️
 
 ![Alturimar GitHub stats](https://github-readme-stats.vercel.app/api?username=Alturimar&show_icons=true&bg_color=00000000)
 
